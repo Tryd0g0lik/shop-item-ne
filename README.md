@@ -1,3 +1,6 @@
+[![shop-item](http://github.com/Tryd0g0lik/workers-ne/actions/workflows/main.yml/badge.svg?branch=main)](http://github.com/Tryd0g0lik/shop-item-ne/actions/workflows/main.yml)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
