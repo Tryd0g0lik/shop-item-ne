@@ -1,6 +1,7 @@
 {
   "name": "shop-item",
 	"main": "./src/index.js",
+	"homepage":"https://tryd0g0lik.github.io/shop-item-ne",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
