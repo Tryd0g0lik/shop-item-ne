@@ -22,7 +22,7 @@ jobs:
     steps:
       # действие проверяет содержимое хранилища, в котором
       # размещен вызывающий рабочий процесс, а не вызываемый рабочий процесс.
-      - uses: actions/checkout@vv4.1.1
+      - uses: actions/checkout@v4.1.1
 
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v4.0.0
